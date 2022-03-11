@@ -6,12 +6,11 @@ export const TASKS: Task[] = [
         day: 'Agosto 5 a las 12:00',
         reminder: true
     },
-
     {
         id: 2,
-        text: "Hacer las compraas para la cena",
+        text: "Hacer las compras para la cena",
         day: 'Agosto 5 a las 13:00',
-        reminder: true
+        reminder: false
     },
     {
         id: 3,
