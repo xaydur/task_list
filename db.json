@@ -22,13 +22,19 @@
       "id": 4,
       "text": "Salir a correr",
       "day": "Agosto 5 a las 19:00",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 5,
       "text": "Tomar cerveza",
       "day": "Agosto 5 a las 23:00",
       "reminder": true
+    },
+    {
+      "text": "Tarea 1",
+      "day": "21",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
